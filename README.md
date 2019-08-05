@@ -19,3 +19,5 @@ $ yarn install
 # serve with hot reload at localhost:3000
 $ yarn run dev
 ```
+## View the project in codesandbox via the link below: 
+https://codesandbox.io/s/github/Myolisi/Vue-filters-collection-example/tree/master/
