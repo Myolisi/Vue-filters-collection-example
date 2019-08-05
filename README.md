@@ -1,4 +1,4 @@
-# codesandbox-nuxt
+# vue-collection-filters
 
 A simple guide on how to use the [vue-collection-filters](https://www.npmjs.com/package/vue-filters-collection) package. 
 
